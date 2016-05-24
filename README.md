@@ -1,3 +1,5 @@
+Hello! This is my edit!
+
 # Guard::Shopifytheme
 [![Build Status](https://travis-ci.org/dannysmith/guard-shopifytheme.png?branch=master)](https://travis-ci.org/dannysmith/guard-shopifytheme) [![Gem Version](https://badge.fury.io/rb/guard-shopifytheme.png)](http://badge.fury.io/rb/guard-shopifytheme)
 
@@ -102,4 +104,3 @@ end
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dannysmith/guard-shopifytheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
